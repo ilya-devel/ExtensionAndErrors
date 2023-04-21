@@ -28,6 +28,6 @@ public class task4 {
         file.createNewFile();
         FileReader reader = new FileReader(file);
         reader.read();
-        test();
+//        test();
     }
 }
